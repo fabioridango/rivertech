@@ -1,5 +1,5 @@
 Environment assumptions:
-1. JDK installed
+1. JDK 17 installed 
 2. Maven installed
 
 The Framework has been developed as follows:
