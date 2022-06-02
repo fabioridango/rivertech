@@ -26,8 +26,11 @@ Delaut OS for the project is MacOs, if you need to run it on Windows please edit
 and set as below:
 
 url = https://www.saucedemo.com/
+
 browser = chrome
+
 os = Windows
+
 
 1.3 Execute the following sequence of commands:
 
