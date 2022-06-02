@@ -1,6 +1,7 @@
 Environment assumptions:
 1. JDK 17 installed 
 2. Maven installed
+3. Chrome version 102.xx
 
 The Framework has been developed as follows:
 1. Page Object Model design pattern + Page Factory
@@ -18,6 +19,15 @@ Instruction to run the project:
 git clone https://github.com/fabioridango/rivertech.git
 
 1.2 Move to “rivertech” directory
+
+N.B.
+
+Delaut OS for the project is MacOs, if you need to run it on Windows please edit the environment.properties file
+and set as below:
+
+url = https://www.saucedemo.com/
+browser = chrome
+os = Windows
 
 1.3 Execute the following sequence of commands:
 
